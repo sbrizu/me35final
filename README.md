@@ -1,6 +1,6 @@
 # ME35 Final: Football — Multi-Robot Soccer System ⚽🤖
 
-This repository contains the full software stack for our ME35 Final Project (“Football”): a cooperative multi-robot system designed to score as many goals as possible within a five-minute match.
+This repository contains the full software stack for our ME35 Final Project: a cooperative multi-robot system designed to score as many goals as possible within a five-minute match.
 
 The system integrates a ball dispenser, a remotely controlled defensive robot, and an autonomous robot using AprilTag localization and computer vision.
 
