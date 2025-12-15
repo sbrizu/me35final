@@ -41,7 +41,7 @@ The goal of this project is to design and implement a coordinated multi-robot sy
 
 ## Hardware Requirements
 
-- **3 × ESP32 (MicroPython)**
+- **4 × ESP32 (MicroPython)**
   - Ball dispenser controller
   - RC defensive robot controller
   - Autonomous robot motor controller
